@@ -1,7 +1,7 @@
 # Vitaly Polushkin
 ## My contacts
 * Email: brewchik@gmail.com
-* G ithub: (Vitaly Polushkin)[https://github.com/Brew4ik]
+* Github: [https://github.com/Brew4ik](Brew4ik)
 ## About me
 I work on oil refinery. I want to try  to change my live for better with RSSchool.
 ## Education
